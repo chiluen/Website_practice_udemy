@@ -1,0 +1,35 @@
+body,
+
+/*這邊的html，是針對整個頁面的一些設定，包含background等等*/
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+  font-size: 3rem;
+  color: azure;
+}
+body hr{
+  width: 30px;
+  border-color: darkorange;
+}
+
+.btn{
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+.btn-warning{
+  background-color: chocolate;
+  border-color: darkgreen;
+}
+
+.btn-warning:hover{
+  background-color: darkolivegreen;
+}
