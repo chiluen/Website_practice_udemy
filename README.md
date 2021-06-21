@@ -6,5 +6,5 @@
 ### JS_button_practice
 * Practice DOM manipulation for button add/delete
 
-### robofriend
+### robofriends
 * Practice for React.js.
